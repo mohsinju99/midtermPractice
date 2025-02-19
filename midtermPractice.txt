@@ -1,0 +1,11 @@
+Midterm Practice
+
+Order of Git Commands
+
+git init
+git status
+git add --all
+git commit -m ""
+
+-- Create GitHub repository
+
