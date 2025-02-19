@@ -8,4 +8,7 @@ git add --all
 git commit -m ""
 
 -- Create GitHub repository
+(now writing from github repository)
 
+git remote add origin [[url]]
+git push origin master
